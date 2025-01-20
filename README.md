@@ -1,5 +1,5 @@
 # Repositório referente ao bootcamp-Java
-Ira ter todos os passos no meu avanço no Bootcamp
+Aqui ira ter uma preview sobre o meu avanço no Bootcamp.
 
 ## Links úteis
 
