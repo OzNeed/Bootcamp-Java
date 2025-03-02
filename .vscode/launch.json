@@ -1,0 +1,78 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "QuartoEXE",
+            "request": "launch",
+            "mainClass": "QuartoEXE",
+            "projectName": "Bootcamp-Java_80818f07"
+        },
+        {
+            "type": "java",
+            "name": "TerceiroEXE",
+            "request": "launch",
+            "mainClass": "TerceiroEXE",
+            "projectName": "Bootcamp-Java_80818f07"
+        },
+        {
+            "type": "java",
+            "name": "QuintaAula",
+            "request": "launch",
+            "mainClass": "QuintaAula",
+            "projectName": "Bootcamp-Java_80818f07"
+        },
+        {
+            "type": "java",
+            "name": "SegundoEXE",
+            "request": "launch",
+            "mainClass": "SegundoEXE",
+            "projectName": "Bootcamp-Java_80818f07"
+        },
+        {
+            "type": "java",
+            "name": "QuartaAula",
+            "request": "launch",
+            "mainClass": "QuartaAula",
+            "projectName": "Bootcamp-Java_80818f07"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "a b c d e f g h i j"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Bootcamp-Java_80818f07"
+        },
+        {
+            "type": "java",
+            "name": "PrimeiraAula",
+            "request": "launch",
+            "mainClass": "PrimeiraAula",
+            "projectName": "Bootcamp-Java_80818f07"
+        },
+        {
+            "type": "java",
+            "name": "SegundaAula",
+            "request": "launch",
+            "mainClass": "SegundaAula",
+            "projectName": "Bootcamp-Java_80818f07"
+        },
+        {
+            "type": "java",
+            "name": "TerceiraAula",
+            "request": "launch",
+            "mainClass": "TerceiraAula",
+            "projectName": "Bootcamp-Java_80818f07"
+        }
+    ]
+}
