@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "Bootcamp-Java_2010ca2f"
+        },
+        {
+            "type": "java",
+            "name": "Main_2",
+            "request": "launch",
+            "mainClass": "Main_2",
+            "projectName": "Bootcamp-Java_2010ca2f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Bootcamp-Java_2010ca2f"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "Bootcamp-Java_2010ca2f"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Bootcamp-Java_2010ca2f"
+        },
+        {
+            "type": "java",
             "name": "Pet_Shop",
             "request": "launch",
             "mainClass": "Terceiro_Exercicio.Pet_Shop",
